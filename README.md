@@ -5,6 +5,8 @@
 → Currently learning ["n8n workflows", "AI Agents", & "automation pipelines"]\
 → Ask me about ["Python", "Cybersecurity basics", "AI automatiOn"]\
 → Fun Fact-- I love turning raw data into meaningful insights💅\
+→ Check Out My Latest Project-- (https://github.com/muniba-zulfiqar02/Language-Translation-Tool)
+
 
 
 
